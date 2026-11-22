@@ -63,3 +63,13 @@ Em fase de levantamento de requisitos e planejamento.
 1. **Atrasos no cronograma:** Utilização de quadro Kanban para acompanhamento semanal.
 2. **Requisitos não claros:** Validação constante de protótipos com o orientador.
 3. **Falhas de segurança:** Uso de criptografia hash (`bcrypt`) para senhas e tokens JWT.
+
+## Como Executar o Primeiro Incremento (Aula 3)
+
+### Pré-requisitos
+- Ter o **Node.js** instalado na máquina.
+
+### Passo a passo
+1. Clone o repositório:
+```bash
+   git clone https://github.com/rafaellabocardi/controle-financeiro-pessoal.git
